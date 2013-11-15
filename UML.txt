@@ -1,0 +1,26 @@
+#          UML ACCOUNT Class
+#   *___________________________________*
+#   *           Account                 *
+#   *___________________________________*
+#   * id: int                           * 
+#   * balance: float                    *
+#   * annualInterestRate: float         *
+#   *___________________________________*
+#   * Acount(id: int, balance: float,   *
+#   *      annualInterestRate: float    *
+#   *    deposit: float,                *
+#   *      withdraw: float)             *
+#   *                                   *
+#   * getAccountid(): str               *
+#   * getBalance(): float               *
+#   * getAnnualInterestRate(): percent  *
+#   * getDeposit(): float               *
+#   * getWithdraw(): float              *
+#   * getMonthInterestRate(): percent   *
+#   * getMonthinterest(): float         *
+#   * setWithdraw( withdraw: float):    *
+#   * setDeposit(deposit: float)        *
+#   * getAccountid(): int               *
+#   * updatealance(): float             *   
+#   * updateMonthlyInterest(): float    *
+#   *___________________________________*
